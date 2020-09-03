@@ -29,9 +29,6 @@ output:
     template: !expr INBOmd::inbo_rapport_css("epub")
     pandoc_args: !expr c("--csl", system.file("research-institute-for-nature-and-forest.csl", package = "INBOmd"))
 bibliography: references.yaml
-bibliography: references.yaml
-bibliography: references.yaml
-bibliography: references.yaml
 ---
 
 # INBO rapport met RMarkdown met Bookdown extensie
