@@ -1,0 +1,66 @@
+---
+references:
+- id: franklin_mapping_2009
+  type: book
+  author:
+  - family: Franklin
+    given: Janet
+  issued:
+  - year: 2009
+  accessed:
+  - year: 2017
+    month: 3
+    day: 1
+  title: 'Mapping Species Distributions: Spatial Inference and Prediction'
+  title-short: Mapping Species Distributions
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  note: 'Citation Key: franklin\_mapping\_2009'
+  URL: http://www.alibris.com/Mapping-Species-Distributions-Spatial-Inference-and-Prediction-Janet-Franklin/book/12212704
+- id: Kish_1965
+  type: book
+  author:
+  - family: Kish
+    given: L
+  issued:
+  - year: 1965
+  title: Survey sampling
+  publisher: John Wiley & Sons, Ltd
+  note: 'Citation Key: Kish\_1965'
+- id: inbook-a1e0
+  type: chapter
+  author:
+  - family: Chapter
+    given: Author
+  issued:
+  - year: 2020
+    month: 12
+  title: A single author techreport
+  collection-title: Series in Title Case
+  publisher: ALLCAPS and Title Case Publishing
+  publisher-place: Somewhere over the Rainbow
+  page: 1-2
+  volume: '12'
+  edition: '2'
+  note: 'Citation Key: inbook-a1e0 Section: 10 tex.owner: me tex.timestamp: 2019-08-20'
+  URL: https://www.inbo.be
+  DOI: 10.1007/s11284-012-0928-6
+  ISBN: 123-456-7890
+- id: manual-a0
+  type: report
+  author:
+  - family: Anonymous
+  issued:
+  - year: 2020
+    month: 10
+  title: A manual title without author
+  publisher: Title Case and ALLCAPS Publishing
+  publisher-place: Somewhere over the Rainbow
+  genre: manual
+  note: 'Citation Key: manual-a0 Edition: 3 Series: A <span class="nocase">Series
+    in Title Case</span> tex.organization: The conference organiser tex.owner: me
+    tex.timestamp: 2019-08-20'
+  URL: https://www.inbo.be
+  DOI: 10.1007/s11284-012-0928-6
+  ISBN: 123-456-7890
+...
