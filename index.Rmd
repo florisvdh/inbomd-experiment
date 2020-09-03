@@ -28,12 +28,15 @@ output:
     stylesheet: "css/inbo_rapport.css"
     template: !expr INBOmd::inbo_rapport_css("epub")
     pandoc_args: !expr c("--csl", system.file("research-institute-for-nature-and-forest.csl", package = "INBOmd"))
+bibliography: references.yaml
+bibliography: references.yaml
+bibliography: references.yaml
+bibliography: references.yaml
 ---
-
 
 # INBO rapport met RMarkdown met Bookdown extensie
 
-Een concreet voorbeeld van de broncode van dergelijk rapport vind je op https://github.com/inbo/inbomd_examples onder het mapje source/inbo_rapport. Hoe zo een rapport er finaal uit kan zien, vind je op https://inbomd-examples.netlify.com/
+Een concreet voorbeeld van de broncode van dergelijk rapport vind je op <https://github.com/inbo/inbomd_examples> onder het mapje source/inbo\_rapport [@franklin_mapping_2009; @Kish_1965; \@inbook-a1e0; @manual-a0]. Hoe zo een rapport er finaal uit kan zien , vind je op <https://inbomd-examples.netlify.com/>
 
 ```{r setup, include = FALSE}
 library(knitr)
