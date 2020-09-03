@@ -20,6 +20,7 @@ output:
   bookdown::pdf_book:
     base_format: INBOmd::inbo_rapport
     style: INBO
+    citation_package: none
     tocdepth: 2
     lof: TRUE
     lot: TRUE
