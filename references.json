@@ -1,0 +1,215 @@
+[
+    {
+        "id": "incollection-a3e3",
+        "DOI": "10.1007/s11284-012-0928-6",
+        "ISBN": "123-456-7890",
+        "URL": "https://www.inbo.be",
+        "author": [
+            {
+                "family": "InCollection",
+                "given": "Author"
+            },
+            {
+                "family": "Second",
+                "given": "Author"
+            },
+            {
+                "family": "Third",
+                "given": "Author"
+            }
+        ],
+        "collection-number": "23",
+        "collection-title": "A <span class=\"nocase\">Series in Title Case</span>",
+        "container-title": "The book without editor title",
+        "edition": "3",
+        "editor": [
+            {
+                "family": "Collection",
+                "given": "Editor"
+            },
+            {
+                "family": "Second",
+                "given": "Editor"
+            },
+            {
+                "family": "Third",
+                "given": "Editor"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    12
+                ]
+            ]
+        },
+        "note": "Citation Key: incollection-a3e3 Section: 9 tex.owner: me tex.timestamp: 2019-08-20",
+        "page": "12-34",
+        "publisher": "Title Case and ALLCAPS",
+        "publisher-place": "Somewhere over the rainbow",
+        "title": "A double author part title",
+        "type": "chapter"
+    },
+    {
+        "id": "DiggleRibeiro2007",
+        "author": [
+            {
+                "family": "Diggle",
+                "given": "Peter J"
+            },
+            {
+                "family": "Ribeiro",
+                "given": "Paulo J"
+            }
+        ],
+        "collection-title": "Springer series in statistics",
+        "issued": {
+            "date-parts": [
+                [
+                    2007
+                ]
+            ]
+        },
+        "note": "Citation Key: DiggleRibeiro2007",
+        "publisher": "Springer",
+        "publisher-place": "New York",
+        "title": "Model-based geostatistics",
+        "type": "book"
+    },
+    {
+        "id": "proceedings-e1",
+        "DOI": "10.1007/s11284-012-0928-6",
+        "ISBN": "123-456-7890",
+        "URL": "https://www.inbo.be",
+        "collection-number": "34",
+        "collection-title": "A <span class=\"nocase\">Series in Title Case</span>",
+        "editor": [
+            {
+                "family": "Proceedings",
+                "given": "Editor"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    10
+                ]
+            ]
+        },
+        "note": "Citation Key: proceedings-e1 tex.organization: The conference organiser tex.owner: me tex.timestamp: 2019-08-20",
+        "publisher": "Title Case and ALLCAPS Publishing",
+        "publisher-place": "Somewhere over the Rainbow",
+        "title": "A single editor proceedings title",
+        "type": "book"
+    },
+    {
+        "id": "article-double",
+        "DOI": "10.1007/s11284-012-0928-6",
+        "ISSN": "1234567890",
+        "URL": "www.inbo.be",
+        "author": [
+            {
+                "family": "Article",
+                "given": "Author"
+            },
+            {
+                "family": "Second",
+                "given": "Author"
+            }
+        ],
+        "container-title": "Journal of ALLCAPS and Title Case",
+        "issue": "456",
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    1
+                ]
+            ]
+        },
+        "note": "Citation Key: article-double tex.owner: the owner tex.timestamp: 2019-08-20",
+        "page": "7-89",
+        "title": "A title",
+        "type": "article-journal",
+        "volume": "123"
+    },
+    {
+        "id": "booklet-a1",
+        "DOI": "10.1007/s11284-012-0928-6",
+        "URL": "https://www.inbo.be",
+        "author": [
+            {
+                "family": "Booklet",
+                "given": "Author"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    1
+                ]
+            ]
+        },
+        "note": "Citation Key: booklet-a1 tex.howpublished: Museum exhibit tex.owner: me tex.timestamp: 2019-08-20",
+        "publisher-place": "Somewhere over the Rainbow",
+        "title": "A single author booklet title",
+        "type": "book"
+    },
+    {
+        "id": "BlauwdrukVogels",
+        "author": [
+            {
+                "family": "Anselin",
+                "given": "Anny"
+            },
+            {
+                "family": "Devos",
+                "given": "Koen"
+            },
+            {
+                "family": "Vermeersch",
+                "given": "Glenn"
+            }
+        ],
+        "collection-title": "Rapporten van het Instituut voor Natuur- en Bosonderzoek 2011",
+        "container-title": "Monitoring Natura 2000-soorten en overige soorten prioritair voor het Vlaams beleid",
+        "editor": [
+            {
+                "family": "De Knijf",
+                "given": "Geert"
+            },
+            {
+                "family": "Westra",
+                "given": "Toon"
+            },
+            {
+                "family": "Onkelinx",
+                "given": "Thierry"
+            },
+            {
+                "family": "Quataert",
+                "given": "Paul"
+            },
+            {
+                "family": "Pollet",
+                "given": "Marc"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    2014
+                ]
+            ]
+        },
+        "note": "Citation Key: BlauwdrukVogels",
+        "page": "188–211",
+        "publisher": "Instituut voor Natuur- en Bosonderzoek",
+        "publisher-place": "Brussels, Belgium",
+        "title": "Blauwdruk vogels",
+        "type": "chapter"
+    }
+]
