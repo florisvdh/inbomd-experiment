@@ -11,6 +11,7 @@ subtitle: "Hier komt de optionele ondertitel"
 reportnr: "Hier komt de DOI van het rapport"
 ordernr: "Het optionele nummer van de opdrachtgever"
 link-citations: TRUE
+lang: nl
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
