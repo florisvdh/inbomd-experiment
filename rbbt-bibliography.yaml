@@ -1,0 +1,36 @@
+---
+references:
+- id: incollection-a3e3
+  abstract: An abstract
+  author:
+    - family: InCollection
+      given: Author
+    - family: Second
+      given: Author
+    - family: Third
+      given: Author
+  collection-number: '23'
+  collection-title: A <span class="nocase">Series in Title Case</span>
+  container-title: The book without editor title
+  DOI: 10.1007/s11284-012-0928-6
+  edition: '3'
+  editor:
+    - family: Collection
+      given: Editor
+    - family: Second
+      given: Editor
+    - family: Third
+      given: Editor
+  event-place: Somewhere over the rainbow
+  ISBN: 123-456-7890
+  issued:
+    - year: 2020
+      month: 12
+  page: 12-34
+  publisher: Title Case and ALLCAPS
+  publisher-place: Somewhere over the rainbow
+  section: '9'
+  title: A double author part title
+  type: chapter
+  URL: 'https://www.inbo.be'
+...

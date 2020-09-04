@@ -30,7 +30,7 @@ output:
     stylesheet: "css/inbo_rapport.css"
     template: !expr INBOmd::inbo_rapport_css("epub")
     pandoc_args: !expr c("--csl", system.file("research-institute-for-nature-and-forest.csl", package = "INBOmd"))
-bibliography: "`r rbbt::bbt_write_bib('rbbt-bibliography.json', overwrite = TRUE)`"
+bibliography: "`r rbbt::bbt_write_bib('rbbt-bibliography.yaml', overwrite = TRUE)`"
 ---
 
 # INBO rapport met RMarkdown met Bookdown extensie
