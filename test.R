@@ -25,6 +25,12 @@ bbt_bib(
            "nonexistant_2040")
 )
 
+
+purrr::walk(
+  rbbt::bbt_detect_citations("index.Rmd"), 
+  ~try(rbbt::bbt_bib(.x, .action = rbbt::bbt_print))
+)
+
 bbt_call_json_rpc(
   "item.export",
   as.list(unique(as.character(c("franklin_mapping_2009", 
