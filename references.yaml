@@ -63,4 +63,77 @@ references:
   URL: https://www.inbo.be
   DOI: 10.1007/s11284-012-0928-6
   ISBN: 123-456-7890
+- id: bivand2013
+  author:
+  - family: Bivand
+    given: Roger S
+  - family: Pebesma
+    given: Edzer J
+  - family: Gómez-Rubio
+    given: Virgilio
+  edition: 2
+  ISBN: 978-0-387-78170-9
+  issued: 2013
+  key: G3TPQSWW
+  libraryID: 1
+  number-of-pages: 374
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Springer
+  title: Applied Spatial Data Analysis with R
+  type: book
+- id: bivand2014
+  Accepted: "2012-03-15T12:43:29Z"
+  accessed: "14:21:17"
+  author:
+  - family: Bivand
+    given: Roger S.
+  container-title: Geocomputation
+  editor:
+  - family: Abrahart
+    given: Robert J.
+  - family: See
+    given: Linda M.
+  ISBN: 978-0-429-18486-4
+  ISSN: 0804-6824
+  issued: 2014-06-23
+  key: MMKRGIYC
+  language: eng
+  libraryID: 1
+  page: 329--355
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: CRC Press
+  source: openaccess.nhh.no
+  title: "Geocomputation and open source software:components and
+    software stacks"
+  title-short: Geocomputation and open source software
+  type: chapter
+  URL: "https://openaccess.nhh.no/nhh-xmlui/handle/11250/163358"
+- id: bivand2019
+  accessed: "14:48:50"
+  author:
+  - family: Bivand
+    given: Roger
+  issued: 2019
+  key: NMEQA979
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  title: "ECS530: (III) Coordinate reference systems. Tuesday 3 December
+    2019, 09:15-11.00, aud. C"
+  type: webpage
+  URL: "https://rsbivand.github.io/ECS530_h19/ECS530_III.html\\#coordinate_reference_systems:\\_background"
+- id: pebesma2019
+  accessed: "13:21:05"
+  author:
+  - family: Pebesma
+    given: Edzer
+  - family: Bivand
+    given: Roger
+  issued: 2019
+  key: ZSLJV9W2
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: "https://www.r-spatial.org/book"
+  title: Spatial Data Science
+  type: book
+  URL: "https://r-spatial.org/book"
 ...
