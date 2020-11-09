@@ -211,5 +211,134 @@
         "publisher-place": "Brussels, Belgium",
         "title": "Blauwdruk vogels",
         "type": "chapter"
+    },
+    {
+        "DOI": "10.1080/13658816.2010.531020",
+        "ISSN": "1365-8816, 1362-3087",
+        "URL": "http://www.tandfonline.com/doi/abs/10.1080/13658816.2010.531020",
+        "accessed": {
+            "date-parts": []
+        },
+        "author": [
+            {
+                "family": "Leitão",
+                "given": "Pedro J."
+            },
+            {
+                "family": "Moreira",
+                "given": "Francisco"
+            },
+            {
+                "family": "Osborne",
+                "given": "Patrick E."
+            }
+        ],
+        "container-title": "International Journal of Geographical Information Science",
+        "container-title-short": "IntJGeogrInfSci",
+        "id": "leitão2011",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2011,
+                    3
+                ]
+            ]
+        },
+        "key": "QRV9JFCR",
+        "libraryid": "1",
+        "page": "439-454",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "source": "CrossRef",
+        "title": "Effects of geographical data sampling bias on habitat models of species distributions: a case study with steppe birds in southern Portugal",
+        "title-short": "Effects of geographical data sampling bias on habitat models of species distributions",
+        "type": "article-journal",
+        "volume": "25"
+    },
+    {
+        "DOI": "10.1016/j.ecolmodel.2014.08.003",
+        "ISSN": "0304-3800",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S0304380014003809",
+        "accessed": {
+            "date-parts": []
+        },
+        "author": [
+            {
+                "family": "Larocque",
+                "given": "Guy R."
+            },
+            {
+                "family": "Bhatti",
+                "given": "Jagtar"
+            },
+            {
+                "family": "Arsenault",
+                "given": "André"
+            }
+        ],
+        "collection-title": "Special Issue: Ecological Modelling for Ecosystem Sustainability: Selected papers presented at the 19th ISEM Conference, 28-31 October 2013, Toulouse, France",
+        "container-title": "Ecological Modelling",
+        "container-title-short": "EcolModel",
+        "id": "larocque2015",
+        "issued": {
+            "date-parts": [
+                [
+                    2015,
+                    6,
+                    24
+                ]
+            ]
+        },
+        "key": "W7ZCSNR5",
+        "libraryid": "1",
+        "page": "318-325",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "source": "ScienceDirect",
+        "title": "Integrated modelling software platform development for effective use of ecosystem models",
+        "type": "article-journal",
+        "volume": "306"
+    },
+    {
+        "DOI": "10.1111/2041-210X.13002",
+        "ISSN": "2041-210X",
+        "URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13002",
+        "accessed": {
+            "date-parts": []
+        },
+        "author": [
+            {
+                "family": "Reich",
+                "given": "Brian J."
+            },
+            {
+                "family": "Pacifici",
+                "given": "Krishna"
+            },
+            {
+                "family": "Stallings",
+                "given": "Jonathan W."
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "container-title-short": "MethodsEcolEvol",
+        "id": "reich2018",
+        "issue": "6",
+        "issued": {
+            "date-parts": [
+                [
+                    2018
+                ]
+            ]
+        },
+        "key": "YS942VH9",
+        "language": "en",
+        "libraryid": "1",
+        "page": "1626-1637",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "rights": "© 2018 The Authors. Methods in Ecology and Evolution © 2018 British Ecological Society",
+        "source": "Wiley Online Library",
+        "title": "Integrating auxiliary data in optimal spatial design for species distribution modelling",
+        "type": "article-journal",
+        "volume": "9"
     }
 ]
