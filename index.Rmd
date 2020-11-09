@@ -35,7 +35,7 @@ bibliography: [references.json, references.yaml]
 
 # INBO rapport met RMarkdown met Bookdown extensie
 
-Een concreet voorbeeld van de broncode van dergelijk rapport vind je op <https://github.com/inbo/inbomd_examples> onder het mapje [@incollection-a3e3; @DiggleRibeiro2007; @proceedings-e1; @article-double; @booklet-a1; @BlauwdrukVogels] source/inbo\_rapport [@franklin_mapping_2009; @Kish_1965; @inbook-a1e0; @manual-a0]. Hoe zo een rapport er finaal uit kan zien , vind je op <https://inbomd-examples.netlify.com/>
+Een concreet voorbeeld van de broncode van dergelijk rapport vind je op <https://github.com/inbo/inbomd_examples> onder het mapje [@incollection-a3e3; @DiggleRibeiro2007; @proceedings-e1; @article-double; @booklet-a1; @BlauwdrukVogels] source/inbo_rapport [@franklin_mapping_2009; @Kish_1965; @inbook-a1e0; @manual-a0]. Hoe zo een rapport er finaal uit kan zien [@leitão2011; @larocque2015; @reich2018], vind je op <https://inbomd-examples.netlify.com/>
 
 ```{r setup, include = FALSE}
 library(knitr)
